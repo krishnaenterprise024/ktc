@@ -7251,7 +7251,7 @@ section.u-image:not(.u-hover-box),
 }
 @media (max-width: 575px) {
   .u-sheet {
-    width: var(--theme-sheet-width-xs) !important;
+    width: 100% !important;
   }
 }
 .u-body .u-sheet .u-sheet {
